@@ -2,7 +2,7 @@
 <h2 align="center">Full Stack Developer from Madrid</h2>
 <h3 align="center">An organized and perseverant person who can find solutions to any problem. I love learning, working in team, and continually improving</h3>
 
-- 📩 How to reach me **avtoral94@gmail.com**
+- 📩 How to reach me: **avtoral94@gmail.com**
 - 👀 Know me more... **https://angelatoral.es/**
 
 <h3 align="left">Connect with me:</h3>
